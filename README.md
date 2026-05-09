@@ -37,7 +37,9 @@ Actively seeking internship opportunities in Bioinformatics, Computational Biolo
 ---
 
 ## 📈 GitHub Stats
-I am actively building my portfolio with real-world bioinformatics projects.## 🛠️ Skills (Beginner Level)
+I am actively building my portfolio with real-world bioinformatics projects.
+
+## 🛠️ Skills (Beginner Level)
 - Programming: Python (Basics), SQL (Learning)
 - Tools: Excel, GitHub
 - Concepts: Data Analysis, Basic Statistics, Biology Fundamentals
