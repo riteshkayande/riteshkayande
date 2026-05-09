@@ -14,13 +14,33 @@
 - 📊 Interested in **data-driven biology and healthcare solutions**
 - 🎯 Goal: Become a **Bioinformatics/Data Science professional**
 
+- ## 🧬 Education
+🎓 Bsc Life Sciences (Pursuing)  
+🏫 Dnyansagar Arts Commerce and Science College, Jafrabad 
+📘 Affiliated to BAMU University  
+
+## 🧬 Bioinformatics Focus
+- DNA/RNA sequence analysis
+- FASTA file processing
+- Gene data interpretation
+- Basic computational biology workflows
+
+## 🎯 Internship Goal
+Actively seeking internship opportunities in Bioinformatics, Computational Biology, and Data Science roles (Remote/On-site)
+
+## 🔍 Focus Areas
+- Bioinformatics Data Analysis
+- Genomics & DNA Sequence Analysis
+- Python for Biological Data
+- Machine Learning in Healthcare
+
 ---
 
-## 🛠️ Skills (Beginner Level)
+## 📈 GitHub Stats
+I am actively building my portfolio with real-world bioinformatics projects.## 🛠️ Skills (Beginner Level)
 - Programming: Python (Basics), SQL (Learning)
 - Tools: Excel, GitHub
 - Concepts: Data Analysis, Basic Statistics, Biology Fundamentals
-
 ---
 
 ## 📚 Currently Learning
